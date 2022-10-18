@@ -17,3 +17,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsgr&&layout=compact)](https://github.com/rajeshsgr)
+
+## 📈 Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rajeshsgr&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshsgr&hide_border=true&theme=radical" />
+</p>
