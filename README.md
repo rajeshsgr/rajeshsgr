@@ -2,7 +2,7 @@
 - :house: I'm from India, but i am currently living in New Orleans
 - :notebook: My blog --> www.belowthemalt.com
 - :muscle: I love spending time at my Gym 
-- :speech_balloon: Talk to me about cloud native development, containers, kafka or latest web series 
+- :speech_balloon: Talk to me about cloud native development, containers, java, django, kafka or latest web series 
 - 📫 You can contact me at [@billaFaad](https://twitter.com/billaFaad)
 
 [![Twitter follow @billaFaad](https://img.shields.io/twitter/follow/billaFaad?style=social)](https://twitter.com/billaFaad) &nbsp;
