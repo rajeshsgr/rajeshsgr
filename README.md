@@ -26,6 +26,11 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
+## ✍🏻 Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 ## ✍🏻 My Top Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
