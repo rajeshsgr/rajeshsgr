@@ -28,10 +28,11 @@ You can click the Preview link to take a look at your changes.
 
 ## ✍🏻 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
+- [What is HELM, why do you need it &amp; what problem does it solve for Kubernetes?](https://belowthemalt.com/2022/11/16/what-is-helm-why-do-you-need-it-what-problem-does-it-solve-for-kubernetes/)
+- [What is .gitignore and how do i generate or write one?](https://belowthemalt.com/2022/10/25/what-is-gitignore-and-how-do-i-generate-or-write-one/)
+- [Embedding source code into powerpoint.](https://belowthemalt.com/2022/10/19/embedding-source-code-into-powerpoint/)
+- [Can i copy files from host to container and from container to host ? If so, how can i do it ?](https://belowthemalt.com/2022/10/18/can-i-copy-files-from-host-to-container-and-from-container-to-host-if-so-how-can-i-do-it/)
+- [What are secrets in Kubernetes &amp; how do you use it ?](https://belowthemalt.com/2022/10/14/what-are-secrets-in-kubernetes-how-do-you-use-it/)
 <!-- BLOG-POST-LIST:END -->
 
 
