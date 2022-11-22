@@ -11,8 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: rajeshsgr/blog-post-workflow@v1
         with:
           max_post_count: "4"
           remove_duplicates: true
-          feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
+          feed_list: "https://www.belowthemalt.com/feed/"
