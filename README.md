@@ -28,11 +28,11 @@ You can click the Preview link to take a look at your changes.
 
 ## ✍🏻 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My favorite reads of 2022](https://belowthemalt.com/2022/12/29/my-favorite-reads-of-2022/)
 - [What are the alternatives for Kubernetes ?](https://belowthemalt.com/2022/12/01/what-are-the-alternatives-for-kubernetes/)
 - [What is HELM, why do you need it &amp; what problem does it solve for Kubernetes?](https://belowthemalt.com/2022/11/16/what-is-helm-why-do-you-need-it-what-problem-does-it-solve-for-kubernetes/)
 - [What is .gitignore and how do i generate or write one?](https://belowthemalt.com/2022/10/25/what-is-gitignore-and-how-do-i-generate-or-write-one/)
 - [Embedding source code into powerpoint.](https://belowthemalt.com/2022/10/19/embedding-source-code-into-powerpoint/)
-- [Can i copy files from host to container and from container to host ? If so, how can i do it ?](https://belowthemalt.com/2022/10/18/can-i-copy-files-from-host-to-container-and-from-container-to-host-if-so-how-can-i-do-it/)
 <!-- BLOG-POST-LIST:END -->
 
 
