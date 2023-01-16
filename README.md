@@ -28,11 +28,11 @@ You can click the Preview link to take a look at your changes.
 
 ## ✍🏻 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How do i check logs of a docker container ?](https://belowthemalt.com/2023/01/16/how-do-i-check-logs-of-a-docker-container/)
 - [How do you add custom response headers in a Spring Boot application?](https://belowthemalt.com/2023/01/12/how-do-you-add-custom-response-headers-in-a-spring-boot-application/)
 - [How do you find period or times of the day in Java ?](https://belowthemalt.com/2023/01/03/how-do-you-find-period-times-of-the-day-in-java/)
 - [My favorite reads of 2022](https://belowthemalt.com/2022/12/29/my-favorite-reads-of-2022/)
 - [What are the alternatives for Kubernetes ?](https://belowthemalt.com/2022/12/01/what-are-the-alternatives-for-kubernetes/)
-- [What is HELM, why do you need it &amp; what problem does it solve for Kubernetes?](https://belowthemalt.com/2022/11/16/what-is-helm-why-do-you-need-it-what-problem-does-it-solve-for-kubernetes/)
 <!-- BLOG-POST-LIST:END -->
 
 
