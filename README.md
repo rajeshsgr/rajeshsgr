@@ -28,11 +28,11 @@ You can click the Preview link to take a look at your changes.
 
 ## ✍🏻 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to read variable set as File type in gitlab-ci.yml ?](https://belowthemalt.com/2023/02/17/how-to-read-variable-set-as-file-type-in-gitlab-ci-yml/)
 - [How do i check logs of a docker container ?](https://belowthemalt.com/2023/01/16/how-do-i-check-logs-of-a-docker-container/)
 - [How do you add custom response headers in a Spring Boot application?](https://belowthemalt.com/2023/01/12/how-do-you-add-custom-response-headers-in-a-spring-boot-application/)
 - [How do you find period or times of the day in Java ?](https://belowthemalt.com/2023/01/03/how-do-you-find-period-times-of-the-day-in-java/)
 - [My favorite reads of 2022](https://belowthemalt.com/2022/12/29/my-favorite-reads-of-2022/)
-- [What are the alternatives for Kubernetes ?](https://belowthemalt.com/2022/12/01/what-are-the-alternatives-for-kubernetes/)
 <!-- BLOG-POST-LIST:END -->
 
 
