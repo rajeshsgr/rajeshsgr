@@ -28,11 +28,11 @@ You can click the Preview link to take a look at your changes.
 
 ## ✍🏻 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How do you list all the PODs and containers in your Kubernetes cluster](https://belowthemalt.com/2023/05/23/how-do-you-list-all-the-pods-and-containers-in-your-kubernetes-cluster/)
 - [What is a spring bean and is it different from Java class?](https://belowthemalt.com/2023/05/16/what-is-a-spring-bean-and-is-it-different-from-java-class/)
 - [What is data lineage and why is it relevant?](https://belowthemalt.com/2023/04/24/what-is-data-lineage-and-why-is-it-relevant/)
 - [Inheritance &amp; Java Sealed Classes](https://belowthemalt.com/2023/03/27/inheritance-java-sealed-classes/)
 - [Mac keyboard shortcuts](https://belowthemalt.com/2023/02/20/mac-keyboard-shortcuts/)
-- [How to read variable set as File type in gitlab-ci.yml ?](https://belowthemalt.com/2023/02/17/how-to-read-variable-set-as-file-type-in-gitlab-ci-yml/)
 <!-- BLOG-POST-LIST:END -->
 
 
