@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 ## ✍🏻 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is SLI , SLO, SLA and Error budgets in Site Reliability Engineering?.](https://belowthemalt.com/2023/08/07/what-is-sli-slo-sla-and-error-budgets-in-site-reliability-engineering/)
+- [What is SLI, SLO, SLA &amp; Error budgets in Site Reliability Engineering?](https://belowthemalt.com/2023/08/07/what-is-sli-slo-sla-and-error-budgets-in-site-reliability-engineering/)
 - [What is Epoch time and how do you get it in Java?](https://belowthemalt.com/2023/07/27/what-is-epoch-time-and-how-do-you-get-it-in-java/)
 - [How do you list all the PODs and containers in your Kubernetes cluster](https://belowthemalt.com/2023/05/23/how-do-you-list-all-the-pods-and-containers-in-your-kubernetes-cluster/)
 - [What is a spring bean and is it different from Java class?](https://belowthemalt.com/2023/05/16/what-is-a-spring-bean-and-is-it-different-from-java-class/)
