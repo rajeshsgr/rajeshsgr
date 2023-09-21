@@ -28,11 +28,11 @@ You can click the Preview link to take a look at your changes.
 
 ## ✍🏻 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [VMs or Containers ?? How do i choose between these 2 options ?](https://belowthemalt.com/2023/09/21/vms-or-containers-how-do-i-choose-between-these-2-options/)
 - [How do you pass arguments to a POD in Kubernetes ?](https://belowthemalt.com/2023/09/06/how-do-you-pass-arguments-to-a-pod-in-kubernetes/)
 - [What is SLI, SLO, SLA &amp; Error budgets in Site Reliability Engineering?](https://belowthemalt.com/2023/08/07/what-is-sli-slo-sla-and-error-budgets-in-site-reliability-engineering/)
 - [What is Epoch time and how do you get it in Java?](https://belowthemalt.com/2023/07/27/what-is-epoch-time-and-how-do-you-get-it-in-java/)
 - [How do you list all the PODs and containers in your Kubernetes cluster](https://belowthemalt.com/2023/05/23/how-do-you-list-all-the-pods-and-containers-in-your-kubernetes-cluster/)
-- [What is a spring bean and is it different from Java class?](https://belowthemalt.com/2023/05/16/what-is-a-spring-bean-and-is-it-different-from-java-class/)
 <!-- BLOG-POST-LIST:END -->
 
 
