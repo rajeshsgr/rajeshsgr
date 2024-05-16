@@ -28,11 +28,11 @@ You can click the Preview link to take a look at your changes.
 
 ## ✍🏻 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Key Considerations for Docker Security &amp; Best Practices.](https://belowthemalt.com/2024/05/15/key-considerations-for-docker-security-best-practices/)
 - [Thank you ! Featured in Feedspot Top 60 Kubernetes Blogs](https://belowthemalt.com/2024/01/19/thank-you-featured-in-feedspot-top-60-kubernetes-blogs/)
 - [What do you mean by training a AI model ?](https://belowthemalt.com/2023/12/01/what-do-you-mean-by-training-a-ai-model/)
 - [Demystifying the Language of Gen AI](https://belowthemalt.com/2023/11/30/demystifying-the-language-of-gen-ai/)
 - [VMs or Containers ?? How do i choose between these 2 options ?](https://belowthemalt.com/2023/09/21/vms-or-containers-how-do-i-choose-between-these-2-options/)
-- [How do you pass arguments to a POD in Kubernetes ?](https://belowthemalt.com/2023/09/06/how-do-you-pass-arguments-to-a-pod-in-kubernetes/)
 <!-- BLOG-POST-LIST:END -->
 
 
