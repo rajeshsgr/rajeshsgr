@@ -28,11 +28,11 @@ You can click the Preview link to take a look at your changes.
 
 ## ✍🏻 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the difference between Docker ADD &amp; Docker COPY ?](https://belowthemalt.com/2024/08/10/what-is-the-difference-between-docker-add-docker-copy/)
+- [Swapping Two Numbers Without Using a Temporary Variable](https://belowthemalt.com/2024/08/10/swapping-two-numbers-without-using-a-temporary-variable/)
 - [Monitor Docker Resource Consumption in Real Time](https://belowthemalt.com/2024/05/18/monitor-docker-resource-consumption-in-real-time/)
 - [What is temperature in LLM settings ?](https://belowthemalt.com/2024/05/16/what-is-temperature-in-llm-settings/)
 - [What is the difference between OpenAI and Azure OpenAI ?](https://belowthemalt.com/2024/05/16/what-is-the-difference-between-openai-and-azure-openai/)
-- [Key Considerations for Docker Security &amp; Best Practices.](https://belowthemalt.com/2024/05/15/key-considerations-for-docker-security-best-practices/)
-- [Thank you ! Featured in Feedspot Top 60 Kubernetes Blogs](https://belowthemalt.com/2024/01/19/thank-you-featured-in-feedspot-top-60-kubernetes-blogs/)
 <!-- BLOG-POST-LIST:END -->
 
 
