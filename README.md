@@ -28,11 +28,11 @@ You can click the Preview link to take a look at your changes.
 
 ## ✍🏻 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CPU vs GPU for LLMs: Understanding the Differences and Use Cases](https://belowthemalt.com/2024/09/10/cpu-vs-gpu-for-llms-understanding-the-differences-and-use-cases/)
 - [git merge Vs git rebase](https://belowthemalt.com/2024/08/29/git-merge-vs-git-rebase/)
 - [What is the difference between Docker ADD &amp; Docker COPY ?](https://belowthemalt.com/2024/08/10/what-is-the-difference-between-docker-add-docker-copy/)
 - [Swapping Two Numbers Without Using a Temporary Variable](https://belowthemalt.com/2024/08/10/swapping-two-numbers-without-using-a-temporary-variable/)
 - [Monitor Docker Resource Consumption in Real Time](https://belowthemalt.com/2024/05/18/monitor-docker-resource-consumption-in-real-time/)
-- [What is temperature in LLM settings ?](https://belowthemalt.com/2024/05/16/what-is-temperature-in-llm-settings/)
 <!-- BLOG-POST-LIST:END -->
 
 
