@@ -28,11 +28,11 @@ You can click the Preview link to take a look at your changes.
 
 ## ✍🏻 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is ollama? Is it also a LLM?](https://belowthemalt.com/2024/12/29/what-is-ollama-is-it-also-a-llm/)
 - [How do you setup Keycloak with an existing PostgreSQL database and Docker ?](https://belowthemalt.com/2024/10/21/how-do-you-setup-keycloak-with-an-existing-postgresql-database-and-docker/)
 - [CPU vs GPU for LLMs: Understanding the Differences and Use Cases](https://belowthemalt.com/2024/09/10/cpu-vs-gpu-for-llms-understanding-the-differences-and-use-cases/)
 - [git merge Vs git rebase](https://belowthemalt.com/2024/08/29/git-merge-vs-git-rebase/)
 - [What is the difference between Docker ADD &amp; Docker COPY ?](https://belowthemalt.com/2024/08/10/what-is-the-difference-between-docker-add-docker-copy/)
-- [Swapping Two Numbers Without Using a Temporary Variable](https://belowthemalt.com/2024/08/10/swapping-two-numbers-without-using-a-temporary-variable/)
 <!-- BLOG-POST-LIST:END -->
 
 
