@@ -28,11 +28,11 @@ You can click the Preview link to take a look at your changes.
 
 ## ✍🏻 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing AI Interactions in Spring AI using ChatResponseMetadata](https://belowthemalt.com/2025/01/05/optimizing-ai-interactions-in-spring-ai-using-chatresponsemetadata/)
 - [Fluent APIs and Spring AI’s Chat Client API](https://belowthemalt.com/2025/01/04/fluent-apis-and-spring-ais-chat-client-api/)
 - [Prompts in Spring AI](https://belowthemalt.com/2025/01/03/prompts-in-spring-ai/)
 - [What is Spring AI ? Example of a chat API with multiple LLMs](https://belowthemalt.com/2024/12/29/what-is-spring-ai-example-of-a-chat-api-with-multiple-llms/)
 - [What is ollama? Is it also a LLM?](https://belowthemalt.com/2024/12/29/what-is-ollama-is-it-also-a-llm/)
-- [How do you setup Keycloak with an existing PostgreSQL database and Docker ?](https://belowthemalt.com/2024/10/21/how-do-you-setup-keycloak-with-an-existing-postgresql-database-and-docker/)
 <!-- BLOG-POST-LIST:END -->
 
 
