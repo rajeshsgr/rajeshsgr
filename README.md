@@ -28,11 +28,11 @@ You can click the Preview link to take a look at your changes.
 
 ## ✍🏻 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Structured Output in Spring AI](https://belowthemalt.com/2025/01/11/structured-output-in-spring-ai/)
 - [Structured outputs in LLM](https://belowthemalt.com/2025/01/06/structured-outputs-in-llms/)
 - [Streaming LLM response in Spring AI](https://belowthemalt.com/2025/01/06/streaming-llm-response-in-spring-ai/)
 - [Optimizing AI Interactions in Spring AI using ChatResponseMetadata](https://belowthemalt.com/2025/01/05/optimizing-ai-interactions-in-spring-ai-using-chatresponsemetadata/)
 - [Fluent APIs and Spring AI’s Chat Client API](https://belowthemalt.com/2025/01/04/fluent-apis-and-spring-ais-chat-client-api/)
-- [Prompts in Spring AI](https://belowthemalt.com/2025/01/03/prompts-in-spring-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 
