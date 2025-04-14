@@ -28,11 +28,11 @@ You can click the Preview link to take a look at your changes.
 
 ## ✍🏻 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Model Context Protocol &lpar;MCP&rpar;: What Is It and What Problems Does It Solve?](https://belowthemalt.com/2025/04/13/model-context-protocol-mcp-what-is-it-and-what-problems-does-it-solve/)
 - [Docker Model Runner 101: Run Open-Source AI Models Locally Without the Hassle](https://belowthemalt.com/2025/04/10/docker-model-runner-101-run-open-source-ai-models-locally-without-the-hassle/)
 - [Vector database and conversion of text to vectors for similarity search.](https://belowthemalt.com/2025/01/11/vector-database-and-conversion-of-text-to-vectors-for-similarity-search/)
 - [Structured Output in Spring AI](https://belowthemalt.com/2025/01/11/structured-output-in-spring-ai/)
 - [Structured outputs in LLM](https://belowthemalt.com/2025/01/06/structured-outputs-in-llms/)
-- [Streaming LLM response in Spring AI](https://belowthemalt.com/2025/01/06/streaming-llm-response-in-spring-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 
