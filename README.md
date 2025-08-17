@@ -28,11 +28,11 @@ You can click the Preview link to take a look at your changes.
 
 ## ✍🏻 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Docker Compose for AI Agents, Part 2: Operate &amp; Evolve](https://belowthemalt.com/2025/08/16/docker-compose-for-ai-agents-part-2-operate-evolve/)
+- [Docker Compose for AI Agents, Part 1: Build &amp; Run](https://belowthemalt.com/2025/08/16/docker-compose-for-ai-agents-part-1-build-run/)
 - [Docker Verified Publisher Program: Building Trust in the Container Ecosystem](https://belowthemalt.com/2025/05/31/docker-verified-publisher-program-building-trust-in-the-container-ecosystem/)
 - [Agent2Agent Protocol , the glue for multi-agent AI systems.](https://belowthemalt.com/2025/05/12/agent2agent-protocol-the-glue-for-multi-agent-ai-systems/)
 - [LLM Evaluation : Principles, Frameworks, and Best Practices](https://belowthemalt.com/2025/05/03/llm-evaluation-principles-frameworks-and-best-practices/)
-- [Vibe Coding 101](https://belowthemalt.com/2025/04/27/vibe-coding-101/)
-- [Model Context Protocol &lpar;MCP&rpar;: What Is It and What Problems Does It Solve?](https://belowthemalt.com/2025/04/13/model-context-protocol-mcp-what-is-it-and-what-problems-does-it-solve/)
 <!-- BLOG-POST-LIST:END -->
 
 
