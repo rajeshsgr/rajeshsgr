@@ -28,11 +28,11 @@ You can click the Preview link to take a look at your changes.
 
 ## ✍🏻 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Re-Rankers: The Key to Smarter Search Results](https://belowthemalt.com/2025/09/10/understanding-re-rankers-the-key-to-smarter-search-results/)
-- [LLMs, Token Limits, and Handling Concurrent Requests](https://belowthemalt.com/2025/09/10/llms-token-limits-and-handling-concurrent-requests/)
-- [Understanding the P95/P99 Latency Principle: Why the Slowest Requests Matter Most](https://belowthemalt.com/2025/09/01/understanding-the-p95-p99-latency-principle-why-the-slowest-requests-matter-most/)
-- [Little’s Law and Concurrency: Why Your System Gets Slow When It’s Busy](https://belowthemalt.com/2025/09/01/littles-law-and-concurrency-why-your-system-gets-slow-when-its-busy/)
-- [Docker Compose for AI Agents, Part 2: Operate &amp; Evolve](https://belowthemalt.com/2025/08/16/docker-compose-for-ai-agents-part-2-operate-evolve/)
+- [Understanding Re-Rankers: The Key to Smarter Search Results](https://belowthemalt.wpcomstaging.com/2025/09/10/understanding-re-rankers-the-key-to-smarter-search-results/)
+- [LLMs, Token Limits, and Handling Concurrent Requests](https://belowthemalt.wpcomstaging.com/2025/09/10/llms-token-limits-and-handling-concurrent-requests/)
+- [Understanding the P95/P99 Latency Principle: Why the Slowest Requests Matter Most](https://belowthemalt.wpcomstaging.com/2025/09/01/understanding-the-p95-p99-latency-principle-why-the-slowest-requests-matter-most/)
+- [Little’s Law and Concurrency: Why Your System Gets Slow When It’s Busy](https://belowthemalt.wpcomstaging.com/2025/09/01/littles-law-and-concurrency-why-your-system-gets-slow-when-its-busy/)
+- [Docker Compose for AI Agents, Part 2: Operate &amp; Evolve](https://belowthemalt.wpcomstaging.com/2025/08/16/docker-compose-for-ai-agents-part-2-operate-evolve/)
 <!-- BLOG-POST-LIST:END -->
 
 
